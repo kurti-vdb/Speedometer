@@ -1,2 +1,4 @@
 # Speedometer
-An iOS prototype tryout of a speedometer for cyclists
+An iOS prototype tryout of a speedometer for cyclists.
+
+
